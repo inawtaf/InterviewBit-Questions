@@ -1,2 +1,3 @@
 # InterviewBit-Questions
-solutions to questions of interviewbit.com in java
+This repository contains codes to the programming questions on interviewbit.com
+All these solutions are coded in Java
